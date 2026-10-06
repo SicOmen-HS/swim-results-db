@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 2,
+  "repository": "SicOmen-HS/swim-results-db",
+  "profile": "standard",
+  "instructions": "README.md",
+  "privilegedSurfaces": []
+}
